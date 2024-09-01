@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone👋, Harshal Rembhotkar</h1>
-<h3 align="center">A Passionate about everything Devops and all Cloud Native things.</h3>
+<h3 align="center">I'm passionate about everything Devops and all Cloud Native things.</h3>
 
 - 🌱 I’m currently learning **Devops tools and Technologies.**
 
