@@ -8,7 +8,7 @@
 - 📝 I regularly write articles on [Hashnode](https://harshalr.hashnode.dev/)
 
 - 📫 How to reach me **harshalrembhotkar94@gmail.com**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/harshal_rembhotkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="harshal_rembhotkar" height="30" width="40" /></a>
@@ -29,4 +29,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-rembhotkar&" alt="harshal-rembhotkar" /></p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/harshalrjs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/harshalrjs" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/harshalrjs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshalrjs" /></a></p><br><br>
