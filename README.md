@@ -28,5 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-rembhotkar&" alt="harshal-rembhotkar" /></p>
 
-<h3 align="left">Support:</h3>
+<h4 align="left">Support:</h4>
 <p><a href="https://www.buymeacoffee.com/harshalrjs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshalrjs" /></a></p><br><br>
