@@ -1,11 +1,5 @@
 name: Generate Datas
 on:
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
     
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
@@ -20,6 +14,6 @@ jobs:
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output
-          
+          build_dir: ./
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN }}
