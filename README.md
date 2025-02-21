@@ -1,7 +1,6 @@
 <h1 align="center">Hey Everyone👋, I'm Harshal Rembhotkar</h1>
-<h3 align="center">I'm passionate about everything Devops & all Cloud Native things.</h3>
 
-- 🌱 I’m currently learning **Devops tools and Technologies.**
+- 🌱 I'm passionate about everything Devops & all Cloud Native things.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshal-rembhotkar](https://github.com/harshal-rembhotkar)
 
