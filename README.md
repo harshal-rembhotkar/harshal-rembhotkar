@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone👋, I'm Harshal Rembhotkar</h1>
 
-- 🌱 I'm passionate about everything Devops & all Cloud Native things.
+- 🌱 I'm passionate about everything related to DevOps and Web3. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshal-rembhotkar](https://github.com/harshal-rembhotkar)
 
