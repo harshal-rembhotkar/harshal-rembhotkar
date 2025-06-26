@@ -4,7 +4,7 @@ I’m **Harshal Rembhotkar**— a curious coder with a thing for backend magic a
 **Solana**, **Anchor**, and **Solidity**. By night, I’m either writing blogs or geeking out on Rust and Web3.
 
 ### A Bit About Me
-- 🌐 Deep into **Web3** and **blockchain**—think of it as coding’s spicy side.
+- 🌐 Deep into **Web3** and **blockchain**.
 - 🦀 Currently learning Rust (yes, the one that yells at you but makes you better).
 - ✍️  Writing on Hashnode about open source, development, and DevOps.
 
